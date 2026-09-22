@@ -1,7 +1,5 @@
 # BNPL-Customer-Analysis
 The project is dedicated to studying the behavior of BNPL service users and analyzing factors associated with late payments.
-# BNPL Customer Analysis
-
 **Цель:** определить, какие характеристики клиентов и особенности использования BNPL связаны с наличием просроченных платежей, чтобы улучшить сегментацию клиентов и персонализацию коммуникаций.
 
 > **Примечание:** в проекте используются синтетические данные. `Default_Risk` рассчитан на основе `debt-to-income ratio`, `credit_score` и `late_payment`, поэтому не используется как самостоятельный объект анализа.
